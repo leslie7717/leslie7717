@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding with thinking
 - 🌱 I’m currently learning CS @Northeastern
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: mingyigao1212@gmail.com
 
 <!---
 leslie7717/leslie7717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
