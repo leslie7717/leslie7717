@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leslie7717
-- 👀 I’m interested in coding with thinking
+- 👀 I’m specialized in `Java`, `Python`, `JavaScript`, `React`, `Spring`, `MongoDB`...
 - 🌱 I’m currently learning CS @Northeastern
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I love badminton🏸, hiking🏔️, and cycling🚴‍♂️
 - 📫 How to reach me: mingyigao1212@gmail.com
 
 <!---
